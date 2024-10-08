@@ -1,2 +1,3 @@
 # Frontend-Web-Development
-Beginner Javascript udemy course of @jonasschmedtmann for frontend web development.
+Beginner JavaScript course projects and code for frontend web development by @jonasschmedtmann.
+
